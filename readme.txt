@@ -23,14 +23,14 @@ DEMO - http://www.connexapps.com/demo/advanced-facebook-wall-widget/
 == Installation ==
 
 Thanks for installing our Wordpress Plugin. In this article we'll describe how you can use our plugin perfectly.
-We are open with suggestions &amp; questions. So for anything please email us at - admin@connexapps.com
+We are open with suggestions & questions. So for anything please email us at - admin@connexapps.com
 
 After Installing the plugin first you have to went to Wordpress Widgets Page - From Right Sidebar Menu (Appearance :&gt;&gt; Widgets)
 
 Now Drag and Drop our Widget to your preferable widget area.
 
 You will find some configuration fields - Let's sort them out.
-<strong>1. Facebook ID:</strong> It can be your Short URL of facebook page like
+1. Facebook ID: It can be your Short URL of facebook page like
 
 Example: https://www.facebook.com/smashmag
 
@@ -42,7 +42,7 @@ go here - http://findmyfacebookid.com/
 
 Submit your Page URL. Then you will find a numeric ID. Copy it; This is your Facebook Page ID.
 
-<strong>2. Facebook APP ID &amp; Secret:</strong>
+2. Facebook APP ID & Secret:
 
 You have to create account in Facebook Developers site to obtain the keys. You can use the default values, But to its always better you use your own keys.
 
@@ -58,15 +58,15 @@ Give it a name and choose category. And then click "Create App" Button at bottom
 
 If Captcha Require. Fill it.
 
-That's it. And you will find your APP Id &amp; APP Secret
+That's it. And you will find your APP Id & APP Secret
 
-<strong>3. Width:</strong> Width of your Module in pixel.
+3. Width: Width of your Module in pixel.
 
-<strong>4. Post Limit:</strong> Limit of the numbers of Post you like to display.
+4. Post Limit: Limit of the numbers of Post you like to display.
 
-<strong>5. Link Target Attributes:</strong> Link Target - Open in New Window or Same Window or Top Window
+5. Link Target Attributes: Link Target - Open in New Window or Same Window or Top Window
 
-<strong>6. Display Attachment:</strong> Yes or No.
+6. Display Attachment: Yes or No.
 
 == Frequently Asked Questions ==
  Contact us for any kind of support - admin@connexapps.com
