@@ -237,7 +237,7 @@ class advancedFacebookWallWidget extends WP_Widget{
             <?php endforeach; ?>
         </ul>
     </div>
-	<div class="support" style="font-size: 9px; text-align: right; color: #ccc;"><a href="http://www.patientfirstwellness.net/" target="_blank" title="patientfirstwellness.net">urgent care las vegas</a></div>
+<!-- text goes here -->
 </div>
 <?php
 echo $after_widget;
