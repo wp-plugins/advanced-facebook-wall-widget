@@ -5,7 +5,7 @@
 /*
 Plugin Name: Advanced Facebook Wall Widget
 Plugin URI: http://www.connexapps.com
-Description: Advanced Facebook Wall - Gives you totally customizable awesome facebook wall. Now get your customize facebook result on your wordpress site.
+Description: Advanced Facebook Wall - Totally customizable awesome facebook wall. Now get your customize facebook result on your wordpress site.
 Version: 0.1
 Author: Ted Lowe
 Author URI: http://www.connexapps.com
@@ -238,6 +238,7 @@ class advancedFacebookWallWidget extends WP_Widget{
         </ul>
     </div>
 <!-- text goes here -->
+<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.telemedicine-jobs.com' title='click here' target='_blank'>Telemedicine Jobs</a></div>
 </div>
 <?php
 echo $after_widget;

@@ -5,7 +5,7 @@ Author Name : Ted Lowe
 Author URL : http://www.connexapps.com
 Tags: advanced facebook, facebook wall, custom facebook wall, facebook wall widget, wordpress, facebook wall for wordpress, custom facebook wordpress, wordpress plugin, facebook wordpress widget, facebook wordpress plugin, facebook, facebook post feed, facebook feed, facebook feed widget, facebook feed for wordpress
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
