@@ -238,7 +238,7 @@ class advancedFacebookWallWidget extends WP_Widget{
         </ul>
     </div>
 <!-- text goes here -->
-<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://crescentappraisal.com/' title='click here' target='_blank'>Seattle Commercial Appraiser</a></div>
+<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://moltzconstructors.com/' title='Moltz' target='_blank'>Moltz Constructors</a></div>
 </div>
 <?php
 echo $after_widget;
